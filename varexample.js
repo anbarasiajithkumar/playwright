@@ -13,3 +13,5 @@ function varTest()
   
 }
   varTest(); 
+
+  //can redeclare x value and it is acceptable
